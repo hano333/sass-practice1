@@ -1,0 +1,25 @@
+.main {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #f567ae;
+}
+
+.main h1 {
+  color: #f8f8f8;
+  font-size: 34px;
+}
+
+.main p {
+  color: #efefef;
+  font-size: 16px;
+}
+
+.main .main_inner {
+  background-color: skyblue;
+}
+
+.main .main_inner p {
+  color: yellow;
+}
+/*# sourceMappingURL=common.css.map */
